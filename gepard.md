@@ -24,12 +24,16 @@ Der Gepard [ˈgeːpart/geˈpart] (Acinonyx jubatus) ist ein hauptsächlich in Af
 <li>Warzenschweine</li>
 </ol>
 
+<script>
+  document.alert("test")
+  </script>
+
 # Wie Geparden laufen:
-<code>
+```java
 public class Gepardenlauf {
   public static void main(String args[]) {
     Gepard gepard = new Gepard();
     gepard.run();
   }
 }
-</code>
+
