@@ -25,4 +25,11 @@ Der Gepard [ˈgeːpart/geˈpart] (Acinonyx jubatus) ist ein hauptsächlich in Af
 </ol>
 
 # Wie Geparden laufen:
-
+<code>
+public class Gepardenlauf {
+  public static void main(String args[]) {
+    Gepard gepard = new Gepard();
+    gepard.run();
+  }
+}
+</code>
