@@ -3,6 +3,9 @@
 This project is the base for a workshop to explain the essential functions of GitHub Wikis. 
 
 For more information go to: https://github.com/Gepardec/github-wiki-training/wiki
+
+#### Installation Guide
+<code>mvn clean install</code>
   
 #### Example Code  
   
